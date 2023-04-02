@@ -141,3 +141,23 @@ February 19th, 2022
 ```
 
 <https://grabcad.com/library/spdt-print-toggle-switch-pcb-mount-1>
+
+### `Parts/Lid Hook.FCStd` and Bottom Receptacle
+
+Source:
+
+```text
+ESP32 DevKit Case
+by bkgoodman January 25, 2020
+```
+
+<https://www.thingiverse.com/thing:4125952>
+
+As used in:
+
+```text
+ESP32 DevKit Case Wroom az-delivery 38 PIN
+by tispokes April 21, 2022
+```
+
+<https://www.thingiverse.com/thing:5361695>
