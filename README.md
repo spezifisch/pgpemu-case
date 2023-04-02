@@ -121,6 +121,14 @@ SW2018
 
 <https://grabcad.com/library/esp-wroom-32-2>
 
+### `Parts/TP4056 battery charger USB-C.*`
+
+USB port is from:
+
+> This thing was created by Thingiverse user Legacy_Micro, and is licensed under cc.
+
+<https://www.thingiverse.com/thing:5745963>
+
 ### `Parts/spdt-print-toggle-switch`
 
 Source:
